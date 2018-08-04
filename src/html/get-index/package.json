@@ -1,0 +1,7 @@
+{
+  "name": "status-x3n-get-index",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
